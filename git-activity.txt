@@ -1,1 +1,4 @@
 This is my first Git activity.
+
+Today, I am learning how to use Git for version control.
+I will create branches to work on new features without affecting the main code.
